@@ -4,7 +4,7 @@ Accompanying git repository with code and raw and processed data used in the art
 
 #### Links to the article:
 
-Insert URL
+* https://www.preprints.org/manuscript/202003.0443/v1
 
 -----
 
